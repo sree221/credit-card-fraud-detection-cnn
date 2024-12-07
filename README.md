@@ -1,4 +1,4 @@
-# discription
+# description
 Credit card fraud detection is a critical task for financial institutions and payment systems. With the rise in digital transactions, fraud detection systems must become more robust, scalable, and accurate. In this project, we use a Convolutional Neural Network (CNN) to detect fraudulent credit card transactions. We are leveraging deep learning techniques to identify patterns in the transaction data that differentiate fraudulent transactions from legitimate ones.
 
 This project employs a CNN model that is specifically designed to handle imbalanced datasets, which is common in fraud detection, where fraudulent transactions are much fewer than legitimate ones. SMOTE (Synthetic Minority Over-sampling Technique) is used to balance the dataset before feeding it into the model. Additionally, techniques like batch normalization, dropout, and data scaling are employed to improve the accuracy of the model.
